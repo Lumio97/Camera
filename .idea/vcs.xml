@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MainProjestSS" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Map" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SimpleDatabase" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Tree" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Weather" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Weather2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/WeatherApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/translator" vcs="Git" />
+  </component>
+</project>
